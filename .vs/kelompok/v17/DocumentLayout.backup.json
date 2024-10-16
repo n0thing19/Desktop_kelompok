@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai listbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Daftar Pegawai ListBox.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.Designer.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai ListBox.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.Designer.cs",
+              "RelativeToolTip": "Daftar Pegawai ListBox.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADgvxwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:23:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Daftar Pegawai ListBox.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai ListBox.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
+              "RelativeToolTip": "Daftar Pegawai ListBox.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAArwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:19:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Daftar Pegawai ListBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai ListBox.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs [Design]",
+              "RelativeToolTip": "Daftar Pegawai ListBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:15:28.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:05:25.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daftar Barang.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs",
+              "RelativeDocumentMoniker": "Daftar Barang.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs",
+              "RelativeToolTip": "Daftar Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:51:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Daftar Barang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs",
+              "RelativeDocumentMoniker": "Daftar Barang.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs [Design]",
+              "RelativeToolTip": "Daftar Barang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:47:35.186Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
