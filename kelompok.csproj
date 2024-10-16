@@ -69,6 +69,9 @@
     <EmbeddedResource Include="Daftar Barang.resx">
       <DependentUpon>Daftar Barang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Daftar Pegawai GridView.resx">
+      <DependentUpon>Daftar Pegawai GridView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Daftar Pegawai ListBox.resx">
       <DependentUpon>Daftar Pegawai ListBox.cs</DependentUpon>
     </EmbeddedResource>
