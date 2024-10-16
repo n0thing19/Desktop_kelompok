@@ -111,6 +111,5 @@ namespace kelompok
             comboBox1.SelectedIndex = -1;
             textBox1.Focus();
         }
-
     }
 }

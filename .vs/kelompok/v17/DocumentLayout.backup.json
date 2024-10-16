@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai listbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 66,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Daftar Pegawai ListBox.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.Designer.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai ListBox.Designer.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.Designer.cs",
-              "RelativeToolTip": "Daftar Pegawai ListBox.Designer.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAADgvxwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:23:00.746Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Daftar Pegawai GridView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs [Design]",
+              "RelativeToolTip": "Daftar Pegawai GridView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:35:53.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Daftar Pegawai ListBox.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
               "RelativeDocumentMoniker": "Daftar Pegawai ListBox.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
               "RelativeToolTip": "Daftar Pegawai ListBox.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAArwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwHAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:19:36.126Z",
+              "WhenOpened": "2024-10-16T08:28:12.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Daftar Pegawai ListBox.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
               "RelativeDocumentMoniker": "Daftar Pegawai ListBox.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs [Design]",
               "RelativeToolTip": "Daftar Pegawai ListBox.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:15:28.534Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:05:25.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Daftar Barang.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs",
-              "RelativeDocumentMoniker": "Daftar Barang.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs",
-              "RelativeToolTip": "Daftar Barang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:51:28.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Daftar Barang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs",
-              "RelativeDocumentMoniker": "Daftar Barang.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Barang.cs [Design]",
-              "RelativeToolTip": "Daftar Barang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:47:35.186Z",
+              "WhenOpened": "2024-10-16T08:12:52.159Z",
               "EditorCaption": " [Design]"
             }
           ]

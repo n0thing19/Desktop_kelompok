@@ -52,6 +52,12 @@
     <Compile Include="Daftar Barang.Designer.cs">
       <DependentUpon>Daftar Barang.cs</DependentUpon>
     </Compile>
+    <Compile Include="Daftar Pegawai GridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daftar Pegawai GridView.Designer.cs">
+      <DependentUpon>Daftar Pegawai GridView.cs</DependentUpon>
+    </Compile>
     <Compile Include="Daftar Pegawai ListBox.cs">
       <SubType>Form</SubType>
     </Compile>
