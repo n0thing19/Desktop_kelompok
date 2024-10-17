@@ -1,5 +1,5 @@
-P001|Jonathan|Pria|Penjualan
+P001|Jonathan|Pria|HRD
 P002|Misellin|Wanita|HRD
 P003|Randy|Pria|Pembelian
-P004|Dave|Pria|Keuangan
+P004|Dave|Pria|Gudang
 P005|Felicia|Wanita|Keuangan
