@@ -40,7 +40,7 @@ namespace kelompok
                 listBox1.Font = new Font("Courier New", listBox1.Font.Size);
                 string formattedOutput =
                     kodePegawai.PadRight(8) + "|" +
-                    namaPegawai.PadRight(8) + "|" +
+                    namaPegawai.PadRight(10) + "|" +
                     jenisKelamin.PadRight(10) + "|" +
                     departemen.PadRight(12);
                 listBox1.Items.Add(formattedOutput);
@@ -88,7 +88,7 @@ namespace kelompok
                     {
                         string formattedOutput =
                             data[0].PadRight(8) +"|"+
-                            data[1].PadRight(8) + "|" +
+                            data[1].PadRight(10) + "|" +
                             data[2].PadRight(10) + "|" +
                             data[3].PadRight(12);
 

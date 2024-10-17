@@ -9,3 +9,16 @@ C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.csproj.C
 C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.exe
 C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.pdb
 C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.Daftar_Pegawai_ListBox.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\bin\Debug\kelompok.exe.config
+D:\UPH\PABD\ajon\Desktop_kelompok\bin\Debug\kelompok.exe
+D:\UPH\PABD\ajon\Desktop_kelompok\bin\Debug\kelompok.pdb
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.csproj.AssemblyReference.cache
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Daftar_Barang.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Daftar_Pegawai_GridView.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Daftar_Pegawai_ListBox.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Properties.Resources.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.csproj.GenerateResource.cache
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.csproj.CoreCompileInputs.cache
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.exe
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.pdb
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Contoh1.resources

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contoh1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh1.Designer.cs">
+      <DependentUpon>Contoh1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Daftar Barang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Contoh1.resx">
+      <DependentUpon>Contoh1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Daftar Barang.resx">
       <DependentUpon>Daftar Barang.cs</DependentUpon>
     </EmbeddedResource>
