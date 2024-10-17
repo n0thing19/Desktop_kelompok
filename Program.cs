@@ -17,7 +17,8 @@ namespace kelompok
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Daftar_Barang());
-            Application.Run(new Daftar_Pegawai_ListBox());
+            //Application.Run(new Daftar_Pegawai_ListBox());
+            Application.Run(new Contoh1());
         }
     }
 }

@@ -1,1 +1,2 @@
-aa|aa|Wanita|Keuangan
+aa|aa|Pria|Keuangan
+MM|Misellin|Wanita|Gudang
