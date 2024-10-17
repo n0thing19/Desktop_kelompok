@@ -22,3 +22,5 @@ D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.csproj.CoreCompileInputs.ca
 D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.exe
 D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.pdb
 D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Contoh1.resources
+C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.Contoh1.resources
+C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.Daftar_Pegawai_GridView.resources

@@ -1,2 +1,5 @@
-aa|aa|Pria|Keuangan
-MM|Misellin|Wanita|Gudang
+P001|Jonathan|Pria|Penjualan
+P002|Misellin|Wanita|HRD
+P003|Randy|Pria|Pembelian
+P004|Dave|Pria|Keuangan
+P005|Felicia|Wanita|Keuangan
