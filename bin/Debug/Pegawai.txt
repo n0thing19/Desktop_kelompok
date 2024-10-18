@@ -5,3 +5,4 @@ P004|Dave|Pria|Gudang
 P005|Felicia|Wanita|Keuangan
 a|a|Wanita|Gudang
 a|a|Wanita|Keuangan
+p0001|mm|Wanita|HRD

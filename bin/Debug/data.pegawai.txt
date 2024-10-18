@@ -1,0 +1,3 @@
+M001 | Misellin | Wanita | Penjualan
+M002 | Misello | Pria | Gudang
+M003 | jo | Pria | Gudang

@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\",
+  "WorkspaceRootPath": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|d:\\uph\\pabd\\ajon\\desktop_kelompok\\pertemuan09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:pertemuan09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|d:\\uph\\pabd\\ajon\\desktop_kelompok\\pertemuan09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:pertemuan09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|d:\\uph\\pabd\\ajon\\desktop_kelompok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|d:\\uph\\pabd\\ajon\\desktop_kelompok\\pertemuan09.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:pertemuan09.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|d:\\uph\\pabd\\ajon\\desktop_kelompok\\daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +42,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 66,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:48:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pertemuan09.cs",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Pertemuan09.cs",
+              "RelativeDocumentMoniker": "Pertemuan09.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Pertemuan09.cs*",
+              "RelativeToolTip": "Pertemuan09.cs*",
+              "ViewState": "AgIAABsAAACAzczMzKw+wDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:14:03.708Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Pertemuan09.cs [Design]",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Pertemuan09.cs",
+              "RelativeDocumentMoniker": "Pertemuan09.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Pertemuan09.cs [Design]*",
+              "RelativeToolTip": "Pertemuan09.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:58:46.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daftar Pegawai GridView.cs",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai GridView.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai GridView.cs",
+              "RelativeToolTip": "Daftar Pegawai GridView.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAASwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:32:38.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Daftar Pegawai GridView.cs [Design]",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai GridView.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai GridView.cs [Design]",
+              "RelativeToolTip": "Daftar Pegawai GridView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:32:32.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pertemuan09.Designer.cs",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Pertemuan09.Designer.cs",
+              "RelativeDocumentMoniker": "Pertemuan09.Designer.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Pertemuan09.Designer.cs",
+              "RelativeToolTip": "Pertemuan09.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:14:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Daftar Pegawai ListView.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai ListView.cs",
               "RelativeDocumentMoniker": "Daftar Pegawai ListView.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai ListView.cs",
               "RelativeToolTip": "Daftar Pegawai ListView.cs",
               "ViewState": "AgIAAL4AAAAAAAAAAAAYwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,54 +143,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Daftar Pegawai ListView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs",
+              "DocumentMoniker": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai ListView.cs",
               "RelativeDocumentMoniker": "Daftar Pegawai ListView.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs [Design]",
+              "ToolTip": "D:\\UPH\\PABD\\ajon\\Desktop_kelompok\\Daftar Pegawai ListView.cs [Design]",
               "RelativeToolTip": "Daftar Pegawai ListView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T08:32:34.18Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Daftar Pegawai GridView.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
-              "RelativeToolTip": "Daftar Pegawai GridView.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAcwMUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:32:38.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Daftar Pegawai GridView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs [Design]",
-              "RelativeToolTip": "Daftar Pegawai GridView.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:32:32.615Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1498,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

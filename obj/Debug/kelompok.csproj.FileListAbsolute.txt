@@ -25,3 +25,5 @@ D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Contoh1.resources
 C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.Contoh1.resources
 C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.Daftar_Pegawai_GridView.resources
 C:\Users\Lenovo\Desktop\UPH\Algo\Semester_4\kelompok\obj\Debug\kelompok.Daftar_Pegawai_ListView.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Daftar_Pegawai_ListView.resources
+D:\UPH\PABD\ajon\Desktop_kelompok\obj\Debug\kelompok.Pertemuan09.resources
