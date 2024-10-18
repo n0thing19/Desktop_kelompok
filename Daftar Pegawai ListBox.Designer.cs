@@ -202,6 +202,7 @@
             this.Name = "Daftar_Pegawai_ListBox";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Daftar_Pegawai_ListBox";
+            this.Load += new System.EventHandler(this.Daftar_Pegawai_ListBox_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -11,12 +11,17 @@ using System.Windows.Forms;
 
 namespace kelompok
 {
-    public partial class Daftar_Pegawai_GridView : Form
+    public partial class Daftar_Pegawai_ListView : Form
     {
         private bool isEditMode = false;
-        public Daftar_Pegawai_GridView()
+        public Daftar_Pegawai_ListView()
         {
             InitializeComponent();
+        }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -50,8 +55,7 @@ namespace kelompok
                 {
                     sw.WriteLine($"{kodePegawai}|{namaPegawai}|{jenisKelamin}|{departemen}");
                 }
-                dataGridView1.Rows.Add(kodePegawai, namaPegawai, jenisKelamin, departemen);
-
+                listView1.Items.Add(kodePegawai, namaPegawai);
                 ClearInputFields();
 
                 MessageBox.Show("Data pegawai berhasil ditambahkan.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -70,30 +74,30 @@ namespace kelompok
             string jenisKelamin = radioButton1.Checked ? "Pria" : "Wanita";
             string departemen = comboBox1.SelectedItem?.ToString() ?? "";
 
-            try
-            {
-                UpdateDataDiFile(kodePegawai, namaPegawai, jenisKelamin, departemen); 
-                foreach (DataGridViewRow row in dataGridView1.Rows)
-                {
-                    if (row.Cells["kode"].Value.ToString() == kodePegawai)
-                    {
-                        row.Cells["nama"].Value = namaPegawai;
-                        row.Cells["kelamin"].Value = jenisKelamin;
-                        row.Cells["departemen"].Value = departemen;
-                        break;
-                    }
-                }
+            //try
+            //{
+            //    UpdateDataDiFile(kodePegawai, namaPegawai, jenisKelamin, departemen);
+            //    foreach (DataGridViewRow row in dataGridView1.Rows)
+            //    {
+            //        if (row.Cells["kode"].Value.ToString() == kodePegawai)
+            //        {
+            //            row.Cells["nama"].Value = namaPegawai;
+            //            row.Cells["kelamin"].Value = jenisKelamin;
+            //            row.Cells["departemen"].Value = departemen;
+            //            break;
+            //        }
+            //    }
 
-                ClearInputFields();
-                isEditMode = false; 
-                button1.Text = "Tambah";
-                MessageBox.Show("Data pegawai berhasil diupdate.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //    ClearInputFields();
+            //    isEditMode = false;
+            //    button1.Text = "Tambah";
+            //    MessageBox.Show("Data pegawai berhasil diupdate.", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
-            }
+            //}
         }
         void UpdateDataDiFile(string kodePegawai, string namaPegawai, string jenisKelamin, string departemen)
         {
@@ -135,17 +139,17 @@ namespace kelompok
 
         private void TampilkanData(string filterJenisKelamin)
         {
-            dataGridView1.Rows.Clear();
+            //dataGridView1.Rows.Clear();
             try
             {
                 string[] lines = File.ReadAllLines("Pegawai.txt");
                 foreach (string line in lines)
                 {
                     string[] data = line.Split('|');
-                    if (string.IsNullOrEmpty(filterJenisKelamin) || data[2] == filterJenisKelamin)
-                    {
-                        dataGridView1.Rows.Add(data[0], data[1], data[2], data[3]);
-                    }
+                    //if (string.IsNullOrEmpty(filterJenisKelamin) || data[2] == filterJenisKelamin)
+                    //{
+                    //    dataGridView1.Rows.Add(data[0], data[1], data[2], data[3]);
+                    //}
                 }
             }
             catch (Exception ex)
@@ -168,28 +172,38 @@ namespace kelompok
         {
             if (e.RowIndex >= 0)
             {
-                DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+                //DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
 
-                string kodePegawai = selectedRow.Cells["kode"].Value.ToString();
-                string namaPegawai = selectedRow.Cells["nama"].Value.ToString();
-                string jenisKelamin = selectedRow.Cells["kelamin"].Value.ToString();
-                string departemen = selectedRow.Cells["departemen"].Value.ToString();
+                //string kodePegawai = selectedRow.Cells["kode"].Value.ToString();
+                //string namaPegawai = selectedRow.Cells["nama"].Value.ToString();
+                //string jenisKelamin = selectedRow.Cells["kelamin"].Value.ToString();
+                //string departemen = selectedRow.Cells["departemen"].Value.ToString();
 
-                textBox1.Text = kodePegawai;
-                textBox2.Text = namaPegawai;
-                if (jenisKelamin == "Pria")
-                {
-                    radioButton1.Checked = true;
-                }
-                else
-                {
-                    radioButton2.Checked = true;
-                }
-                comboBox1.SelectedItem = departemen;
+                //textBox1.Text = kodePegawai;
+                //textBox2.Text = namaPegawai;
+                //if (jenisKelamin == "Pria")
+                //{
+                //    radioButton1.Checked = true;
+                //}
+                //else
+                //{
+                //    radioButton2.Checked = true;
+                //}
+                //comboBox1.SelectedItem = departemen;
 
-                isEditMode = true;
-                button1.Text = "Simpan";
+                //isEditMode = true;
+                //button1.Text = "Simpan";
             }
+        }
+
+        private void Daftar_Pegawai_GridView_Load(object sender, EventArgs e)
+        {
+            TampilkanData("");
+        }
+
+        private void Daftar_Pegawai_ListView_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

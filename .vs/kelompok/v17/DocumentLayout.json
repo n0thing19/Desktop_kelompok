@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|c:\\users\\lenovo\\desktop\\uph\\algo\\semester_4\\kelompok\\daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\daftar pegawai gridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE692C6-18BF-421F-90AA-22155958D588}|kelompok.csproj|solutionrelative:daftar pegawai gridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 66,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,78 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Daftar Pegawai ListBox.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai ListBox.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
-              "RelativeToolTip": "Daftar Pegawai ListBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Title": "Daftar Pegawai ListView.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai ListView.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs",
+              "RelativeToolTip": "Daftar Pegawai ListView.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAYwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:12:44.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Daftar Pegawai ListBox.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai ListBox.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListBox.cs [Design]",
-              "RelativeToolTip": "Daftar Pegawai ListBox.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:12:41.058Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Daftar Pegawai GridView.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.Designer.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai GridView.Designer.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.Designer.cs",
-              "RelativeToolTip": "Daftar Pegawai GridView.Designer.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAkwNIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:31:00.882Z",
+              "WhenOpened": "2024-10-18T08:32:53.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Title": "Daftar Pegawai ListView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai ListView.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai ListView.cs [Design]",
+              "RelativeToolTip": "Daftar Pegawai ListView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:05:16.541Z",
+              "WhenOpened": "2024-10-18T08:32:34.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daftar Pegawai GridView.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
+              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
+              "RelativeToolTip": "Daftar Pegawai GridView.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAcwMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:32:38.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Daftar Pegawai GridView.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
               "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs [Design]",
               "RelativeToolTip": "Daftar Pegawai GridView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:53:05.709Z",
+              "WhenOpened": "2024-10-18T08:32:32.615Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Daftar Pegawai GridView.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
-              "RelativeDocumentMoniker": "Daftar Pegawai GridView.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\UPH\\Algo\\Semester_4\\kelompok\\Daftar Pegawai GridView.cs",
-              "RelativeToolTip": "Daftar Pegawai GridView.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAIwKYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:53:08.219Z",
-              "EditorCaption": ""
             }
           ]
         },

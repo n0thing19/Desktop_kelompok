@@ -3,3 +3,5 @@ P002|Misellin|Wanita|HRD
 P003|Randy|Pria|Pembelian
 P004|Dave|Pria|Gudang
 P005|Felicia|Wanita|Keuangan
+a|a|Wanita|Gudang
+a|a|Wanita|Keuangan

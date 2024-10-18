@@ -111,5 +111,10 @@ namespace kelompok
             comboBox1.SelectedIndex = -1;
             textBox1.Focus();
         }
+
+        private void Daftar_Pegawai_ListBox_Load(object sender, EventArgs e)
+        {
+            TampilkanData("");
+        }
     }
 }

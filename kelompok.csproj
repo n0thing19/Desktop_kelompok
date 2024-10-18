@@ -70,6 +70,12 @@
     <Compile Include="Daftar Pegawai ListBox.Designer.cs">
       <DependentUpon>Daftar Pegawai ListBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="Daftar Pegawai ListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daftar Pegawai ListView.Designer.cs">
+      <DependentUpon>Daftar Pegawai ListView.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Contoh1.resx">
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Daftar Pegawai ListBox.resx">
       <DependentUpon>Daftar Pegawai ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daftar Pegawai ListView.resx">
+      <DependentUpon>Daftar Pegawai ListView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
